@@ -52,16 +52,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-**Reproducibility status:** notebooks and saved outputs are supplied as original research artifacts. They have **not** been verified end-to-end in a clean environment, and checkpoint compatibility with the demo has not been tested. The listed dependencies are unpinned.
-
-## Authorship and acknowledgments
-
-Developed as a **group project** for *AI with Deep Learning* (2025–2026), by **Hung Siu Wang, Chan Tsz Hin, Matteo Zabban, and Choi San Ho**. The project proposal lists Matteo's focus as **model design and attention mechanisms**. The final implementations and results are group work; no exclusive authorship is claimed.
-
-## Publication note
-
-The PDF documents may contain team-member names, student IDs or contact details. Confirm group permission and review the PDFs before making this repository public. No license is included pending agreement among contributors.
-
 ## Selected notebook visualizations
 
 These plots are exported from stored notebook outputs; see the report for interpretation.
